@@ -127,8 +127,7 @@ Relevant issues:
 
 Relevant PRs:
 
-* [PR title #1][]
-* [PR title #2][]
+* [make `suggestionsBuilder` in `SearchAnchor` async][https://github.com/flutter/flutter/pull/127019]
 {% endcomment %}
 
 {% comment %}
